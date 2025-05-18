@@ -21,10 +21,10 @@ def read_csv_range(filename, start, end):
         rows = [row[0] for i, row in enumerate(csv.reader(f)) if start <= i < end]
     return rows
 
-start_row = 6000
-end_row = 6250
+start_row = 6250
+end_row = 6500
 
-email = "libeyvsabadm3oz"
+email = "imclearlycrystal"
 password = "@@Eskepal123"
 
 # Baca judul video sesuai rentang yang diinginkan
