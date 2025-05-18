@@ -21,12 +21,10 @@ def read_csv_range(filename, start, end):
         rows = [row[0] for i, row in enumerate(csv.reader(f)) if start <= i < end]
     return rows
 
-# Rentang data yang diproses (misal dari baris 1 sampai 50)
-start_row =4000  # Baris pertama (0-based index)
-end_row = 4200  # Baris terakhir yang ingin diproses
+start_row = 5250
+end_row = 5500
 
-# Deklarasi akun tunggal
-email = "butkeypansekkq35"
+email = "naessighalyxd"
 password = "@@Eskepal123"
 
 # Baca judul video sesuai rentang yang diinginkan
@@ -49,14 +47,14 @@ time.sleep(5)
 for title in titles:
     try:
         modif_kata = title.replace(' ', '_')
-        kw = f'{title} Leaked Onlyfans New Uploaded ({random_string(5)})'
+        kw = f'{title} Leaked Onlyfans - New Update Files ({random_string(5)})'
 
         konten = f'''
-        29 minutes ago - Access {title} Leaked Onlyfans New Updaload FIles 2025
+        18 minutes ago - Access {title} Leaked Onlyfans New video For Download {title} Nudes
 
-        LINK ⏩⏩ https://topallfans.web.app?title={modif_kata}
+        LINK ⏩⏩ https://kifansqu.web.app?title={modif_kata}
 
-        {title} Leaked onlyfans update pict  - you'll be able to download and preview all content from {title} Onlyfans in just a few clicks.
+        {title} Leaked onlyfans update New Files 2025 ++ Download  - you'll be able to download and preview all content from {title} Onlyfans in just a few clicks.
         '''
 
         video_path = os.path.abspath("video/video.mp4")
